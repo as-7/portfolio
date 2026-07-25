@@ -8,7 +8,7 @@ _This is a [now page](https://nownownow.com/about) — a snapshot of what I'm fo
 ## Currently
 
 - Building out this site and my GenAI portfolio.
-- Learning and shipping projects with generative AI.
+- Waiting to join an AI Engineer position at a VERY LARGE company :)
 - Writing up notes as I go.
 
 ## Recently

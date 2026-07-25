@@ -1,6 +1,6 @@
 ---
 author: Aakash
-pubDatetime: 2026-07-26T05:30:00Z
+pubDatetime: 2026-07-25T17:58:11Z
 title: "I Ship LLM Systems for a Living. I Can't Derive Backprop."
 slug: i-ship-llm-systems-cant-derive-backprop
 featured: true
