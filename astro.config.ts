@@ -5,6 +5,7 @@ import {
   svgoOptimizer,
 } from "astro/config";
 import tailwindcss from "@tailwindcss/vite";
+import mermaid from "astro-mermaid";
 import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
 import { unified } from "@astrojs/markdown-remark";
@@ -22,6 +23,13 @@ import config from "./astro-paper.config";
 export default defineConfig({
   site: config.site.url,
   integrations: [
+    // Must stay first so it can hook the markdown processor before mdx().
+    // Diagrams follow the site theme: data-theme="light" -> default, "dark" -> dark.
+    mermaid({
+      theme: "default",
+      autoTheme: true,
+      enableLog: false,
+    }),
     mdx(),
     sitemap({
       filter: page =>
