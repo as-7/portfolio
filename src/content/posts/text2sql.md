@@ -1,6 +1,6 @@
 ---
 author: Aakash
-pubDatetime: 2026-08-04T09:00:00Z
+pubDatetime: 2026-08-03T14:00:00Z
 title: "Text-to-SQL: Easy to Build, Hard to Trust"
 slug: text-to-sql-easy-to-build-hard-to-trust
 featured: true
