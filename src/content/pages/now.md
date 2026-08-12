@@ -3,16 +3,17 @@ title: "Now"
 description: "What Aakash Sehrawat is focused on right now."
 ---
 
-_This is a [now page](https://nownownow.com/about) — a snapshot of what I'm focused on at this point in my life. Last updated: **July 2026**._
+_This is a [now page](https://nownownow.com/about) — a snapshot of what I'm focused on at this point in my life. Last updated: **August 2026**._
 
 ## Currently
 
+- Working as a Software Engineer — AI & Fullstack at **Moody's Corporation**.
 - Building out this site and my GenAI portfolio.
-- Waiting to join as an AI Engineer at a VERY LARGE company :)
 - Writing up notes as I go.
 
 ## Recently
 
+- Joined Moody's Corporation :)
 - Bought this domain and set up the site.
 
 ---
